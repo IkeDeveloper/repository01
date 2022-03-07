@@ -26,4 +26,4 @@ public class TestBehaviour : MonoBehaviour
         thrust = StatusBarHandler.GetStatusBarValue() * 1.5f;
         Debug.Log(thrust);
     }
-} //amended file
+} 
